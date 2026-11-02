@@ -1,0 +1,378 @@
+[
+    {
+    "question_id": "Q0001",
+    "category": 1,
+    "difficulty": 1,
+    "content": {
+        "question": "Trò chơi Bài Chòi thường được tổ chức vào dịp nào ở miền Trung?",
+        "options": ["Tết Trung Thu", "Tết Nguyên Đán", "Quốc Khánh", "Vu Lan"],
+        "answer": "Tết Nguyên Đán"
+    },
+    "rewards": {
+        "coins": 10,
+        "silver": 5,
+        "exp": 20
+    },
+    "penalties": {
+        "lose_coins": 2,
+        "lose_silver": 1,
+        "backward_move": 1
+    }
+    },
+    {
+    "question_id": "Q0002",
+    "category": 1,
+    "difficulty": 2,
+    "content": {
+        "question": "Quân bài trong trò chơi Cờ Gánh thường làm bằng gì?",
+        "options": ["Đá cuội", "Gỗ lim", "Tre", "Đất nung"],
+        "answer": "Đá cuội"
+    },
+    "rewards": {
+        "coins": 15,
+        "silver": 10,
+        "exp": 30
+    },
+    "penalties": {
+        "lose_coins": 3,
+        "lose_silver": 2,
+        "backward_move": 2
+    }
+    },
+    {
+    "question_id": "Q0003",
+    "category": 2,
+    "difficulty": 1,
+    "content": {
+        "question": "Hai hàng cột đỏ, dăng sợi dây thừng\n Có niêu đất nung, đợi người bịt mắt?",
+        "options": null,
+        "answer": "Đập niêu đất"
+    },
+    "rewards": {
+        "coins": 10,
+        "silver": 5,
+        "exp": 20
+    },
+    "penalties": {
+        "lose_coins": 2,
+        "lose_silver": 1,
+        "backward_move": 1
+    }
+    },
+    {
+    "question_id": "Q0004",
+    "category": 2,
+    "difficulty": 1,
+    "content": {
+        "question": "Đây là trò gì?\n Mười ô nhỏ xíu, hai ô hình cung, sỏ đá xếp cùng, tính toán cho khéo",
+        "options": null,
+        "answer": "Ô ăn quan"
+    },
+    "rewards": {
+        "coins": 15,
+        "silver": 10,
+        "exp": 30
+    },
+    "penalties": {
+        "lose_coins": 3,
+        "lose_silver": 2,
+        "backward_move": 2
+    }
+    },
+    {
+    "question_id": "Q0005",
+    "category": 2,
+    "difficulty": 1,
+    "content": {
+        "question": "Đây là gì?\n Chân thì không có, miệng chẳng thấy đâu, mà đi bát ngát, đến đâu vỡ đấy?",
+        "options": null,
+        "answer": "Con quay (Con cù)"
+    },
+    "rewards": {
+        "coins": 15,
+        "silver": 10,
+        "exp": 30
+    },
+    "penalties": {
+        "lose_coins": 3,
+        "lose_silver": 2,
+        "backward_move": 2
+    }  
+    },
+    {
+    "question_id": "Q0006",
+    "category": 2,
+    "difficulty": 1,
+    "content": {
+        "question": "Đây là trò gì?\n Vót tre thành thẻ, mười que một bộ, tung bóng bắt que?",
+        "options": null,
+        "answer": "Chơi chuyền (Đánh chắt)"
+    },
+    "rewards": {
+        "coins": 15,
+        "silver": 10,
+        "exp": 30
+    },
+    "penalties": {
+        "lose_coins": 3,
+        "lose_silver": 2,
+        "backward_move": 2
+    }    
+    },
+    {
+    "question_id": "Q0007",
+    "category": 2,
+    "difficulty": 2,
+    "content": {
+        "question": "Trong bài Bài Chòi, câu hò Lưng cong có tám cái chân là chỉ con gì?",
+        "options": null,
+        "answer": "Con cua"
+    },
+    "rewards": {
+        "coins": 15,
+        "silver": 10,
+        "exp": 30
+    },
+    "penalties": {
+        "lose_coins": 3,
+        "lose_silver": 2,
+        "backward_move": 2
+    }
+    },
+    {
+    "question_id": "Q0008",
+    "category": 2,
+    "difficulty": 1,
+    "content": {
+        "question": "Đây là trò gì?\n Mười ô nhỏ xíu, hai ô hình cung, sỏ đá xếp cùng, tính toán cho khéo",
+        "options": null,
+        "answer": "Ô ăn quan"
+    },
+    "rewards": {
+        "coins": 15,
+        "silver": 10,
+        "exp": 30
+    },
+    "penalties": {
+        "lose_coins": 3,
+        "lose_silver": 2,
+        "backward_move": 2
+    }
+    },
+    {
+    "question_id": "Q0009",
+    "category": 3,
+    "difficulty": 1,
+    "content": {
+      "question": "Điền từ còn thiếu: Rồng rắn lên mây\n Có cây...?",
+      "options": null,
+      "answer": "Xúc xắc"
+    },
+    "rewards": { "coins": 10, "silver": 5, "exp": 20 },
+    "penalties": { "lose_coins": 2, "lose_silver": 1, "forward_move": 1 }
+  },
+  {
+    "question_id": "Q0010",
+    "category": 3,
+    "difficulty": 1,
+    "content": {
+      "question": "Điền từ còn thiếu: Chi chi chành chành\n Cái đanh thổi lửa\n Con ngựa đứt...?",
+      "options": null,
+      "answer": "Cương"
+    },
+    "rewards": { "coins": 10, "silver": 5, "exp": 20 },
+    "penalties": { "lose_coins": 2, "lose_silver": 1, "forward_move": 1 }
+  },
+    {
+    "question_id": "Q0011",
+    "category": 3,
+    "difficulty": 1,
+    "content": {
+      "question": "Điền từ còn thiếu: Nu na nu nống, đánh trống phất cờ, mở cuộc...?",
+      "options": null,
+      "answer": "Thi đua"
+    },
+    "rewards": { "coins": 10, "silver": 5, "exp": 20 },
+    "penalties": { "lose_coins": 2, "lose_silver": 1, "forward_move": 1 }
+  },
+    {
+    "question_id": "Q0012",
+    "category": 3,
+    "difficulty": 1,
+    "content": {
+      "question": "Bài đồng dao Tập tầm vông kết thúc bằng câu: Tay nào... tay nào...?",
+      "options": null,
+      "answer": "Có - Không"
+    },
+    "rewards": { "coins": 10, "silver": 5, "exp": 20 },
+    "penalties": { "lose_coins": 2, "lose_silver": 1, "forward_move": 1 }
+  },
+   {
+    "question_id": "Q0013",
+    "category": 1,
+    "difficulty": 1,
+    "content": {
+      "question": "Trò chơi nào sử dụng một chiếc gậy dài để hất một chiếc gậy ngắn đi xa?",
+      "options": null,
+      "answer": "Đánh khăng"
+    },
+    "rewards": { "coins": 10, "silver": 5, "exp": 20 },
+    "penalties": { "lose_coins": 2, "lose_silver": 1, "forward_move": 1 }
+  },
+  {
+    "question_id": "Q0014",
+    "category": 3,
+    "difficulty": 1,
+    "content": {
+      "question": "Câu ca dao: Con gà cục tác lá chanh\n Con lợn ủn ỉn mua... cho tôi\n nhắc đến loại gia vị nào?",
+      "options": null,
+      "answer": "Hành"
+    },
+    "rewards": { "coins": 10, "silver": 5, "exp": 20 },
+    "penalties": { "lose_coins": 2, "lose_silver": 1, "forward_move": 1 }
+  },
+   {
+    "question_id": "Q0015",
+    "category": 1,
+    "difficulty": 1,
+    "content": {
+      "question": "Bộ bài dùng trong trò chơi Tổ Tôm có bao nhiêu lá?",
+      "options": null,
+      "answer": "120 lá"
+    },
+    "rewards": { "coins": 10, "silver": 5, "exp": 20 },
+    "penalties": { "lose_coins": 2, "lose_silver": 1, "forward_move": 1 }
+  },
+   {
+    "question_id": "Q0016",
+    "category": 1,
+    "difficulty": 3,
+    "content": {
+      "question": "Nhân vật nào thường xuất hiện để điều hành và hát hò trong hội Bài Chòi?",
+      "options": null,
+      "answer": "Ông Hiệu"
+    },
+    "rewards": { "coins": 10, "silver": 5, "exp": 20 },
+    "penalties": { "lose_coins": 2, "lose_silver": 1, "forward_move": 1 }
+  },
+  {
+    "question_id": "Q0017",
+    "category": 3,
+    "difficulty": 1,
+    "content": {
+      "question": "Điền từ khuyết: Lộn cầu vồng\n Nước trong nước...?",
+      "options": null,
+      "answer": "Chảy"
+    },
+    "rewards": { "coins": 10, "silver": 5, "exp": 20 },
+    "penalties": { "lose_coins": 2, "lose_silver": 1, "forward_move": 1 }
+  },
+   {
+    "question_id": "Q0018",
+    "category": 1,
+    "difficulty": 1,
+    "content": {
+      "question": "Trò chơi dân gian nào thường gắn liền với hình ảnh sân đình, sỏi đá và những ô vuông vẽ trên đất?",
+      "options": null,
+      "answer": "Ô ăn quan"
+    },
+    "rewards": { "coins": 10, "silver": 5, "exp": 20 },
+    "penalties": { "lose_coins": 2, "lose_silver": 1, "forward_move": 1 }
+  },
+  {
+    "question_id": "Q0019",
+    "category": 1,
+    "difficulty": 1,
+    "content": {
+      "question": "Nhạc cụ dân gian nào thường vang lên trong các trò chơi hội làng để tạo nhịp và không khí?",
+      "options": null,
+      "answer": "Trống"
+    },
+    "rewards": { "coins": 10, "silver": 5, "exp": 20 },
+    "penalties": { "lose_coins": 2, "lose_silver": 1, "forward_move": 1 }
+  },
+   {
+    "question_id": "Q0020",
+    "category": 1,
+    "difficulty": 1,
+    "content": {
+      "question": "Nhạc cụ chính dẫn dắt nhịp điệu trong hội Bài Chòi miền Trung?",
+      "options": null,
+      "answer": "Trống hiệu"
+    },
+    "rewards": { "coins": 10, "silver": 5, "exp": 20 },
+    "penalties": { "lose_coins": 2, "lose_silver": 1, "forward_move": 1 }
+  },
+   {
+    "question_id": "Q0021",
+    "category": 1,
+    "difficulty": 1,
+    "content": {
+      "question": "Trong văn hóa dân gian Việt Nam, hoa sen thường tượng trưng cho điều gì?",
+      "options": null,
+      "answer": "Sự thanh cao, thuần khiết"
+    },
+    "rewards": { "coins": 10, "silver": 5, "exp": 20 },
+    "penalties": { "lose_coins": 2, "lose_silver": 1, "forward_move": 1 }
+  },
+   {
+    "question_id": "Q0022",
+    "category": 1,
+    "difficulty": 1,
+    "content": {
+      "question": "Lễ hội Chọi Trâu nổi tiếng nhất gắn liền với địa danh nào ở miền Bắc?",
+      "options": null,
+      "answer": "Đồ Sơn (Hải Phòng)"
+    },
+    "rewards": { "coins": 10, "silver": 5, "exp": 20 },
+    "penalties": { "lose_coins": 2, "lose_silver": 1, "forward_move": 1 }
+  },
+   {
+    "question_id": "Q0023",
+    "category": 1,
+    "difficulty": 1,
+    "content": {
+      "question": "Để chế tạo một con Quay bền bỉ, người dân gian thường chọn loại gỗ nào?",
+      "options": null,
+      "answer": "Gỗ xoan"
+    },
+    "rewards": { "coins": 10, "silver": 5, "exp": 20 },
+    "penalties": { "lose_coins": 2, "lose_silver": 1, "forward_move": 1 }
+  },
+ {
+    "question_id": "Q0024",
+    "category": 4,
+    "difficulty": 1,
+    "content": {
+      "question": "Hãy sắp xếp các bước của trò Chơi Chuyền: (1) Nhặt que, (2) Tung bóng, (3) Đón bóng",
+      "options": null,
+      "answer": "2 - 1 - 3"
+    },
+    "rewards": { "coins": 10, "silver": 5, "exp": 20 },
+    "penalties": { "lose_coins": 2, "lose_silver": 1, "forward_move": 1 }
+  },
+{
+"question_id": "Q0025",
+"category": 4,
+"difficulty": 1,
+"content": {
+    "question": "Thứ tự xuất hiện từ Bắc vào Nam: (1) Đua Ghe Ngo, (2) Đập Niêu, (3) Bài Chòi",
+    "options": null,
+    "answer": "2 - 3 - 1"
+    },
+"rewards": { "coins": 10, "silver": 5, "exp": 20 },
+"penalties": { "lose_coins": 2, "lose_silver": 1, "forward_move": 1 }
+},
+{
+"question_id": "Q0026",
+"category": 1,
+"difficulty": 1,
+"content": {
+    "question": "Trò chơi dân gian nào yêu cầu kết hợp giữa hát đối đáp và di chuyển thẻ bài trên giàn tre?",
+    "options": null,
+    "answer": "Bài Chòi"
+    },
+"rewards": { "coins": 10, "silver": 5, "exp": 20 },
+"penalties": { "lose_coins": 2, "lose_silver": 1, "forward_move": 1 }
+}
+]

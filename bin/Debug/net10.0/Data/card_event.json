@@ -1,0 +1,235 @@
+[
+    {
+    "card_id": "C001",
+    "category": 1,
+    "title": "Hội Làng Mở Cửa",
+    "map": 1,
+    "description": "Cổng đình làng với cờ ngũ sắc bay phấp phới, thấp thoáng bóng rổng múa lân rực rỡ",
+    "intro": "Tiếng trống hội vang rộn rã đầu làng, dòng người náo nức đi xem",
+    "images_url": null,
+    "action_script": {
+        "move_forward": 3,
+        "move_backward": 0,
+        "diffirent_effect": null,
+        "penalty": {
+            "lose_coins": 3,
+            "lose_silver": 2
+        }
+    }
+    },
+    {
+    "card_id": "C002",
+    "category": 1,
+    "title": "Quà Quê Của Bà",
+    "map": 1,
+    "description": "Một đôi bàn tay gầy guộc, ấm áp đang mở gói côi khúc gói trong bọc lá chuối thơm phức, nghi ngút khói",
+    "intro": "Tong túi áo bà có nắm xôi khúc thơm nồng, tiếp thêm sức mạnh cho hành trình.",
+    "images_url": null,
+    "action_script": {
+        "move_forward": 0,
+        "move_backward": 0,
+        "diffirent_effect": "Nhận 1 xúc sắc miền Bắc",  
+        "penalty": {
+            "lose_coins": 3,
+            "lose_silver": 2
+        }
+    }
+    },
+    {
+    "card_id": "C003",
+    "category": 1,
+    "title": "Tiếng Hò Xứ Huế",
+    "map": 2,
+    "description": "Một chiếc đò nan lững lờ trên dòng sông tím, phía xa xa là vầng trăng khuyết và rặng tre lấp lánh như kim cương.",
+    "intro": "Câu hò trên dòng sông Hương Giang giúp tâm hồn tanh thản, xua tan sự lãng quên",
+    "images_url": null,
+    "action_script": {
+        "move_forward": 0,
+        "move_backward": 0,
+        "diffirent_effect": "Hủy bỏ mất lượt tiếp theo",
+        "penalty": {
+            "lose_coins": 3,
+            "lose_silver": 2
+        }
+    }
+    },
+    {
+    "card_id": "C004",
+    "category": 2,
+    "title": "Gánh Muối Đậm Đà",
+    "map": 2,
+    "description": "Những ụ muối trắng tinh xếp đều trên cánh đồng dưới ánh nắng rực rỡ, phản chiếu lấp lánh như kim cương.",
+    "intro": "Vị muối mặn mòi của biển cả giúp con thuyền thêm phần may mắn.",
+    "images_url": null,
+    "action_script": {
+        "move_forward": 0,
+        "move_backward": 0,
+        "diffirent_effect": "Nhận 1 xúc sắc miền Trung",
+        "penalty": {
+            "lose_coins": 3,
+            "lose_silver": 2
+        }
+    }
+    },
+    {
+    "card_id": "C005",
+    "category": 2,
+    "title": "Mưa Rào Sân Đình",
+    "map": 1,
+    "description": "Một góc mái đình cong cổ kính nhòe đi trong màn mưa trắng xóa. Những giọt nước rơi lộp độp tạo thành những vòng tròn trên mặt sân gạch bát tràng.",
+    "intro": "Cơn mưa bất chợt làm trơn trượt lối về, con phải trú tạm dưới mái đình cổ kínhCơn mưa bất chợt làm trơn trượt lối về, con phải trú tạm dưới mái đình cổ kính",
+    "images_url": null,
+    "action_script": {
+        "move_forward": 0,
+        "move_backward": 0,
+        "diffirent_effect": "Mất 1 lượt đi tiếp theo",
+        "penalty": {
+            "lose_coins": 3,
+            "lose_silver": 2
+        }
+    }
+    },
+    {
+    "card_id": "C006",
+    "category": 1,
+    "title": "Gió Bấc Tràn Về",
+    "map": 1,
+    "description": "Những rặng tre già nghiêng ngả trong gió, những chiếc lá khô bay xòa xạc trên con đường mòn tối tăm.",
+    "intro": "Gió lạnh run người, ký ức mờ mịt làm đôi chân con chùn bước.", 
+    "images_url": null,
+    "action_script": {
+        "move_forward": 0,
+        "move_backward": 2,
+        "penalty": {
+            "lose_coins": 3,
+            "lose_silver": 2
+        }
+    }
+    },
+        {
+    "card_id": "C007",
+    "category": 2,
+    "title": "Bão Lụt Miền Trung",
+    "map": 2,
+    "description": "Dòng nước dâng cao mênh mông che lấp những mái nhà, chỉ còn thấy ngọn cây tre lung lay trong biển nước.",
+    "intro": "Nước dâng cao trắng xóa dồng chiều, hành trình thạm thời bị gián đoạn.",
+    "images_url": null,
+    "action_script": {
+        "move_forward": 0,
+        "move_backward": 0,
+        "diffirent_effect": "Khóa túi đồ trong 2 lượt đi tiếp theo",
+        "penalty": {
+            "lose_coins": 3,
+            "lose_silver": 2
+        }
+    }
+    },
+    {
+    "card_id": "C008",
+    "category": 2,
+    "title": "Sương Mù Lãng Quên",
+    "map": 1,
+    "description": "Một chiếc đồng hồ cát đang tan biến thành bụi bên trong là bóng dáng mờ ảo của các trò chơi dân gian bị những bánh răng công nghiệp che lấp.",
+    "intro": "Thực tại xô bồ đang kéo con lại, những hình ảnh tuổi thơ bỗng chốc nhạt nhòa",
+    "images_url": null,
+    "action_script": {
+        "move_forward": 0,
+        "move_backward": 0,
+        "diffirent_effect": "Biến ô sự kiện thành ô thường trong 3 lượt",
+        "penalty": {
+            "lose_coins": 3,
+            "lose_silver": 2
+        }
+    }
+    },
+    {
+    "card_id": "C009",
+    "category": 3,
+    "title": "Chuyến Đò Vỹ Dạ",
+    "map": 2,
+    "description": "Con đò nhỏ trôi lững lờ, phía sau là những nhành lá trúc che ngang mặt chữ. Bối cảnh mờ ảo như một bức tranh thủy mặc.",
+    "intro": "Con đò nhỏ đưa khách sang sông, rút ngắn đoạn đường tìm về ký ức.",
+    "images_url": null,
+    "action_script": {
+        "move_forward": 0,
+        "move_backward": 0,
+        "diffirent_effect": "Di chuyển thẳng đến ô sự kiện tiếp theo",
+        "penalty": {
+            "lose_coins": 3,
+            "lose_silver": 2
+        }
+    }
+    },
+    {
+    "card_id": "C010",
+    "category": 3,
+    "title": "Ghé Thăm Chợ Nổi",
+    "map": 3,
+    "description": "Hàng chục ghe xuồng đan xen, phía trước mỗi ghe là một cây bẹo treo lủng lẳng các loại trái cây. Không khí sầm uất nhưng hư ảo.",
+    "intro": "Ghe thuyền tấp nập, hàng hóa gioa thoa, con có muốn đổi một chút vận may?",
+    "images_url": null,
+    "action_script": {
+        "move_forward": 0,
+        "move_backward": 0,
+        "diffirent_effect": "Đổi vị trí ô hiện tại với ô sự kiện tiếp theo",
+        "penalty": {
+            "lose_coins": 3,
+            "lose_silver": 2
+        }
+    }
+    },
+    {
+    "card_id": "C011",
+    "category": 3,
+    "title": "Phiên Chợ Đêm",
+    "map": 2,
+    "description": "Những ánh đen lồng đủ màu sắc soi bóng xuống mặt nuwocs lấp lánh, người qua kẻ lại mờ ảo trong ánh nến.",
+    "intro": "Trong ánh đèn đêm lung linh, hãy thử trao đổi những gì con có để lấy vận may mới.",
+    "images_url": null,
+    "action_script": {
+        "move_forward": 0,
+        "move_backward": 0,
+        "diffirent_effect": "Đổi xu lấy tài nguyên",
+        "penalty": {
+            "lose_coins": 3,
+            "lose_silver": 2
+        }
+    }
+    },
+    {
+    "card_id": "C012",
+    "category": 3,
+    "title": "Cánh Diều Sáo",
+    "map": 2,
+    "description": "Một chiếc diều sáo khổng lồ chao lượn trên bầu trời xanh ngắt, bên dưới là những cánh đồng lúa uốn lượn theo gió.",
+    "intro": "Gió đưa diều sáo bay cao, ký ức dẫn lối con đến một nơi xa lạ.",
+    "images_url": null,
+    "action_script": {
+        "move_forward": 0,
+        "move_backward": 0,
+        "diffirent_effect": "Di chuyển tới vị trí ngẫu nhiên trên bản đồ",
+        "penalty": {
+            "lose_coins": 3,
+            "lose_silver": 2
+        }
+    }
+    },
+    {
+    "card_id": "C013",
+    "category": 3,
+    "title": "Gương Thần Thời Gian",
+    "map": 1,
+    "description": "Quá khứ và hiện tại soi bóng vào nhau, một sự thay đổi lớn sắp bắt đầu.",
+    "intro": "Đảo ngược hiệu ứng của ô cờ tiếp theo.",
+    "images_url": null,
+    "action_script": {
+        "move_forward": 0,
+        "move_backward": 0,
+        "diffirent_effect": "Đảo ngược hiệu ứng của ô cờ tiếp theo",
+        "penalty": {
+            "lose_coins": 3,
+            "lose_silver": 2
+        }
+    }
+    }
+]

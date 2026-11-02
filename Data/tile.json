@@ -1,0 +1,50 @@
+[
+    {
+        "tile_id": "T01",
+        "name": "Ô Bắt Đầu",
+        "description": "Điểm xuất phát của bàn cờ",
+        "action_type": "None"
+    },
+    {
+        "tile_id": "T02",
+        "name": "Ô Câu Hỏi",
+        "description": "Trả lời các câu hỏi để vượt qua ô.",
+        "action_type": "Trigger_question"
+    },
+    {
+        "tile_id": "T03",
+        "name": "Ô Minigame",
+        "description": "Hoàn thành các minigame để đi tiếp và nhận vật phẩm.",
+        "action_type": "Trigger_minigame"
+    },
+    {
+        "tile_id": "T04",
+        "name": "Ô Xu",
+        "description": "Nhận xu thưởng",
+        "action_type": "None"
+    },
+    {
+        "tile_id": "T04",
+        "name": "Ô Boss",
+        "description": "Tiêu diệt boss để hoàn thành game",
+        "action_type": "Trigger_boss"
+    },
+    {
+        "tile_id": "T05",
+        "name": "Ô Sự Kiện",
+        "description": "Nhận các thẻ sự kiện ngẫu nhiên với các hành động khác nhau.",
+        "action_type": "Trigger_event"
+    },
+    {
+        "tile_id": "T06",
+        "name": "Ô Thường",
+        "description": "None",
+        "action_type": "None"
+    },
+    {
+        "tite_id": "T07",
+        "name": "Ô Đặc Biệt",
+        "description": "Nhận xúc xắc Ký Ức hỗ trợ tiêu diệt Boss",
+        "action": "None"    
+    }
+]

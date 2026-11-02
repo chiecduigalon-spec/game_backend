@@ -1,0 +1,46 @@
+{
+    "id": "B01",
+    "name": "Ký Lân",
+    "description": "Kỳ Lân là một sinh vật huyền thoại trong văn hóa phương Đông, được coi là biểu tượng của sự may mắn, thịnh vượng và quyền lực. Nó thường xuất hiện trong các truyền thuyết và nghệ thuật dân gian, với hình dáng kết hợp giữa sư tử và rồng, mang đến sự bảo vệ và phúc lộc cho những ai gặp nó.",
+    "image": null,
+    "stats": {
+        "health": 5,
+        "attack": 30,
+        "defense": 20,
+        "speed": 15
+    },
+    "abilities": [
+        {
+            "name": "Hơi Thở Lửa",
+            "description": "Kỳ Lân phun ra một luồng lửa mạnh mẽ, gây sát thương lớn cho kẻ thù.",
+            "damage": 50,
+            "cooldown": 3
+        },
+        {
+            "name": "Bảo Vệ Thần Kỳ",
+            "description": "Kỳ Lân tạo ra một lá chắn bảo vệ bản thân và đồng minh khỏi sát thương trong một khoảng thời gian ngắn.",
+            "duration": 5,
+            "cooldown": 10
+        }
+    ],
+    "loot": {
+        "gold": 100,
+        "items": [
+            {
+                "item_id": "I01",
+                "name": "Ngọc Bích",
+                "description": "Một viên ngọc quý hiếm, tượng trưng cho sự may mắn và thịnh vượng."
+            },
+            {
+                "item_id": "I02",
+                "name": "Vảy Rồng",
+                "description": "Một mảnh vảy rồng, có thể được sử dụng để chế tạo các vật phẩm mạnh mẽ."
+            }
+        ]
+    },
+    "penalty": {
+        "lose_coins": 20,
+        "move_checkpoint": 1
+    }
+
+}
