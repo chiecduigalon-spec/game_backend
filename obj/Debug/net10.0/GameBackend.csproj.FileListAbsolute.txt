@@ -44,3 +44,5 @@ D:\GameBackend\bin\Debug\net10.0\Data\card_event.json
 D:\GameBackend\bin\Debug\net10.0\Data\question.json
 D:\GameBackend\bin\Debug\net10.0\Data\tile.json
 D:\GameBackend\bin\Debug\net10.0\Data\boss.json
+D:\GameBackend\obj\Debug\net10.0\GameBackend.sourcelink.json
+D:\GameBackend\bin\Debug\net10.0\Data\minigame.json

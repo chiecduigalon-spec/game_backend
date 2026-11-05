@@ -1,0 +1,89 @@
+[{
+    "minigame_id": "M001",
+    "map": 1,
+    "topic": "CulturalHeritage",
+    "miniGameType": 1,
+    "difficulty": 1,
+    "content" : {
+        "title":"Đoán Hình Ảnh",
+        "promt":"",
+        "imageId": "dam_cuoi_chuot",
+        "imgaeUrl": "",
+        "answer": "",
+        "puzzle": null
+    },
+    "reward": {
+        "coins": 20,
+        "silver": 10,
+        "exp": 40
+    },
+    "penalty": {
+        "lose_coins": 3,
+        "lose_silver": 1,
+        "backward_move": 1
+    }
+},
+{
+    "minigame_id": "M002",
+    "map": 1,
+    "topic": "FolkCulture",
+    "miniGameType": 2,
+    "difficulty": 2,
+    "content" : {
+        "title":"Ghép ký ức",
+        "promt":"",
+        "imageId": "dam_cuoi_chuot_1",
+        "imgaeUrl": "",
+        "answer": "",
+        "puzzle": {
+            "rows": 3,
+            "columns": 3,
+            "shuffleSheet": 18273,
+            "pieces": [
+                {
+                    "piece_id": "P001",
+                    "image_url": "",
+                    "position": {
+                        "x": 0,
+                        "y": 0
+                    }
+                },
+                {
+                    "piece_id": "P002",
+                    "image_url": "",
+                    "position": {
+                        "x": 1,
+                        "y": 0
+                    }
+                },
+                {
+                    "piece_id": "P003",
+                    "image_url": "",
+                    "position": {
+                        "x": 0,
+                        "y": 1
+                    }
+                },
+                {
+                    "piece_id": "P004",
+                    "image_url": "",
+                    "position": {
+                        "x": 1,
+                        "y": 1
+                    }
+                }
+            ]
+        }
+    },
+    "reward": {
+        "coins": 25,
+        "silver": 15,
+        "exp": 50
+    },
+    "penalty": {
+        "lose_coins": 5,
+        "lose_silver": 2,
+        "backward_move": 1
+    }
+}
+]

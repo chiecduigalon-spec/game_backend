@@ -5,6 +5,7 @@ using StackExchange.Redis;
 var builder = WebApplication.CreateBuilder(args);
 
 builder.Services.AddControllers();
+builder.Services.AddScoped<GameBackend.services.autoSeeder>();
 
 // Đăng ký MongoDB Client (Singleton)
 var mongoConnectionString = builder.Configuration.GetConnectionString("MongoDB");
@@ -44,6 +45,12 @@ try
 } catch (Exception ex)
 {
     Console.WriteLine($"Lỗi kết nối tới MongoDB: {ex.Message}");
+}
+
+using (var scope = app.Services.CreateScope())
+{
+    var seeder = scope.ServiceProvider.GetRequiredService<GameBackend.services.autoSeeder>();
+    await seeder.SyncAllJsonFilesAsync();
 }
 
 app.UseAuthorization();
